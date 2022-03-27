@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Joe Lloyd @yellow-specter.
-- 👀 I’m interested in distributed ledger technoology, smart contracts, and the future of data science.
+- 👋 Hi, I’m Joseph Lee Lloyd @yellow-specter.
+- 👀 I’m interested in blockchain smart contracts, automation, and the future of data science.
 - 🌱 I’m currently learning SQL, Python, and PyTEAL.
-- 💞️ I’m looking to collaborate on Data Science, DeFi, and NFTs
+- 💞️ I’m looking to collaborate on Data Science, DeFi, and NFTs.
 - 📫 Reach me @ joseph.leelloyd94@gmail.com.
 
 <!---
